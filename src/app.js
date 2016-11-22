@@ -15,7 +15,7 @@ app.get('/', function(req, res) {
 
 app.get('/users/:id', function(req, res) {
   var id = req.params.id
-  var user = users[id]
+  var user = users[id] || {}
   res.render('users.ejs', {user: user})
   // res.send(user);
 });

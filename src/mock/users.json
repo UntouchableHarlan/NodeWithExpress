@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "first_name": "Jessica",
+  "last_name": "Snyder",
+  "email": "jsnyder0@sphinn.com",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Shawn",
+  "last_name": "Daniels",
+  "email": "sdaniels1@usgs.gov",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Daniel",
+  "last_name": "Berry",
+  "email": "dberry2@furl.net",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "first_name": "Rose",
+  "last_name": "Bell",
+  "email": "rbell3@sogou.com",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "first_name": "Carol",
+  "last_name": "Hall",
+  "email": "chall4@jalbum.net",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "first_name": "Todd",
+  "last_name": "Greene",
+  "email": "tgreene5@theglobeandmail.com",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "first_name": "Dorothy",
+  "last_name": "Burke",
+  "email": "dburke6@whitehouse.gov",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "first_name": "Kevin",
+  "last_name": "Cole",
+  "email": "kcole7@prlog.org",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "first_name": "Jose",
+  "last_name": "Kelly",
+  "email": "jkelly8@flickr.com",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "first_name": "Wanda",
+  "last_name": "Mills",
+  "email": "wmills9@ehow.com",
+  "gender": "Female"
+}]
